@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseDeDatos</string>
+    <string name="precio">Precio del producto</string>
+    <string name="codigo">Código del producto</string>
+    <string name="descripcion">Descripción del producto</string>
+    <string name="registrar">Registrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
